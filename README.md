@@ -27,5 +27,5 @@ Helena Black
 + PostgreSQL
 + SweetAlert2
 
-##What was my (Helena Black's) role in this project?
+## What was my (Helena Black's) role in this project?
 I focused on creating an easy-to-use user interface that stayed on brand with Pab's Packs. Additionally, I was the liaison between Pab's Packs and my team, and as in charge of contacting the client with any issues or questions that we had.
