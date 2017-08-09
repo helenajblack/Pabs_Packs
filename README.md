@@ -11,10 +11,13 @@ Pab's Packs is a non-profit organization created by two teenagers (Abbie and Pia
 ## What problem are we trying to solve?
 Pab's Packs approached us with a need to convert their inventory and event tracking system from hard to read, excessive, and inefficient excel spreadsheets into an easy-to-use website to track inventory and keep track of upcoming and past events.
 
-##Who was on the team?
+## Who was on the team?
 Helena Black
+
 [Kara Bayse](https://github.com/karabayse)
+
 [Mohamed Mohamed](https://github.com/mohamedtwice)
+
 [Carl Page](https://github.com/carlpage)
 
 ## What technologies did we use?
